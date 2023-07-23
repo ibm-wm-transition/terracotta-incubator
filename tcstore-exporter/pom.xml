@@ -30,7 +30,7 @@
         <java.version>1.8</java.version>
         <junit>4.12</junit>
         <slf4j>1.7.25</slf4j>
-        <logback>1.2.3</logback>
+        <logback>1.2.9</logback>
         <hadoop.core>1.2.1</hadoop.core>
         <parquet.avro>1.11.0</parquet.avro>
         <tc_version>10.3.1.2.107</tc_version>
