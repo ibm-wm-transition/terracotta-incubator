@@ -28,7 +28,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <junit>4.12</junit>
+        <junit>4.13.1</junit>
         <slf4j>1.7.25</slf4j>
         <logback>1.2.3</logback>
         <hadoop.core>1.2.1</hadoop.core>
